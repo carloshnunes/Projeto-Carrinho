@@ -1,0 +1,31 @@
+.cart {
+  margin: 20px;
+}
+
+.cart-item {
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.cart-item h3 {
+  margin: 0;
+}
+
+.cart-item p {
+  font-size: 1.2em;
+}
+
+.cart-item button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.cart-item button:hover {
+  background-color: #c82333;
+}
